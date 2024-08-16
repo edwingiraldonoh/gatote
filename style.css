@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.content{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    background-color: cornsilk;
+    grid-template-rows: 1fr 3fr 1fr;
+    justify-content: center;
+}
+.content :nth-child(1){
+    text-align: center;
+    margin-top:2px;
+}
+.gatito{
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%;
+    object-fit: cover; 
+    border: 2px solid #ccc; 
+}
+
+.content :nth-child(2){
+    text-align: center;
+
+}
+.content :nth-child(3){
+    text-align: center;
+    margin-top: 72px;
+}
+
+.ggcs{
+    width: 630px;
+    height: 630px;
+    border: 1px solid black;
+}
+
+.section{
+    height: 80px;
+    width: 630px;
+    border: inherit;
+}
+
+.seccion{
+    height: 80px;
+    width: 630px;
+    border: inherit;
+    
+}
