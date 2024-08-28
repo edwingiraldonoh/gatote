@@ -1,4 +1,4 @@
-uy# gatote
+# gatote
 
 ## Requerimientos
 
