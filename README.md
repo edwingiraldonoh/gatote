@@ -9,12 +9,12 @@
 ## Check List
 
 Qa  Dev
-# [x] [x]  Información Coherente
-# [x] [x]  Foto del gato
-# [x] [x]  Cumple con el diseño
-# [x] [x]  Imagen del gato redonda
-# [x] [x]  Imagen con interacción 
-# [x] [x]  Codigo con comentarios 
+#[x] [x]  Información Coherente
+#[x] [x]  Foto del gato
+#[x] [x]  Cumple con el diseño
+#[x] [x]  Imagen del gato redonda
+#[x] [x]  Imagen con interacción 
+#[x] [x]  Codigo con comentarios 
 
 ## Plan
 
