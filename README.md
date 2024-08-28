@@ -8,7 +8,7 @@
 
 ## Check List
 
-Qa  Dev
+## Qa  Dev
 [x] [x]  Información Coherente
 [x] [x]  Foto del gato
 [x] [x]  Cumple con el diseño
